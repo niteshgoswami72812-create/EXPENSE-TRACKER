@@ -127,7 +127,8 @@ export function AuthPage({
         </div>
 
         <p className="relative text-sm text-emerald-200">
-          A React + Tailwind CSS portfolio project
+        2026 Expense Tracker. All Rights Reserved. <br /> <br />
+        Created By Mr. Nitesh Goswami
         </p>
       </section>
 
